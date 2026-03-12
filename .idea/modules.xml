@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APP1/APP1.iml" filepath="$PROJECT_DIR$/APP1/APP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RA241100301963-hashtable.iml" filepath="$PROJECT_DIR$/.idea/RA241100301963-hashtable.iml" />
+    </modules>
+  </component>
+</project>
